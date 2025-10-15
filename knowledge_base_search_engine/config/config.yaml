@@ -1,0 +1,14 @@
+paths:
+  raw_data: "D:\\ml\\knowledge_base_search_engine\\data\\raw"
+  processed_data: "D:\\ml\\knowledge_base_search_engine\\data\\processed"
+  vector_store: "D:\\ml\\knowledge_base_search_engine\\models\\vector_store.pkl"
+
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  chunk_size: 500
+
+llm:
+  provider: "google"
+  model_name: "models/gemini-1.5-flash"
+  temperature: 0.2

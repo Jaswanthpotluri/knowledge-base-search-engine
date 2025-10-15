@@ -1,0 +1,47 @@
+POTLURI JASWANTH
+potluri.jaswanth2884@gmail.com — +91-7680885649
+Gudivada, Krishna, Andhra Pradesh
+LinkedIn — GitHub
+Career Objective
+B.Tech Computer Science and Engineering (AI/ML) student with academic and project experience in machine learn
+ing, deep learning, and NLP. Skilled in Python, TensorFlow, and data preprocessing with a strong foundation in
+ML algorithms. Eager to contribute to AI/ML projects, expand expertise in computer vision, MLOps, and deliver
+impactful, real-world solutions
+Technical Skills
+• Languages: Python, SQL, Java
+• Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV
+• Concepts: Regression, Classification, Deep Learning, NLP, Feature Engineering
+• Tools: Jupyter Notebook, PyCharm, Kaggle, Git
+• Databases: MySQL
+Projects
+Stock Price Prediction (Regression)
+Jun-sep 2025
+• Built ARIMA,LSTM,SVM and Random Forest models to predict Netflix stock prices.
+• Engineered features (moving averages, volatility); evaluated with r2 score,RMSE & MAE.
+Employee Attrition Prediction
+Jan–Mar 2024
+• Engineered a suite of supervised ML models to proactively identify employees at high risk of attrition, using
+historical HR datasets.
+• Optimized model accuracy by implementing rigorous data preprocessing, strategic feature selection, and com-
+prehensive hyperparameter tuning.
+Style Genie – Outfit Recommendation System
+Aug–Nov 2024
+• Created ResNet50 classifier with CLAHE preprocessing for skin tone classification (97% accuracy).
+• Integrated classification results with a fashion recommendation API.
+Post-Hurricane Damage Detection
+Jan–Apr 2025
+• Designed CNN model to classify hurricane-induced structural damage from satellite imagery.
+• Achieved 92% validation accuracy.
+Bedtime Story Generator (GRU)
+Ongoing
+• Implemented GRU-based text generator for bedtime stories.
+• Improved vocabulary richness and thematic consistency by 15%.
+Certifications & Achievements
+• Oracle Cloud Infrastructure AI Foundations Associate – Oracle University (2024)
+• AI & ML Internship – Intrain Tech (2024)
+Education
+B.Tech – Computer Science & Engineering (AI & ML)
+Oct 2022 – Jun 2026
+Vellore Institute of Technology, Amaravati
+CGPA: 7.77 / 10
+1
