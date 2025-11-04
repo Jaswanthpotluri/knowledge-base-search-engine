@@ -14,7 +14,7 @@ with open(r"D:\ml\knowledge_base_search_engine\config\config.yaml") as f:
     config = yaml.safe_load(f)
 
 # Configure Gemini API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCh0jIBcaj4rZMK5PZrGX6atREDvEBdYPo"
+os.environ["GOOGLE_API_KEY"] = ""
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Set the model explicitly (choose from the list you got)
